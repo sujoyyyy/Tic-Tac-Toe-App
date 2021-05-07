@@ -9,4 +9,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Screenshots
-![]
+![](https://github.com/sujoyyyy/Tic-Tac-Toe-App/blob/main/Screenshots/Screenshot.jpeg)
